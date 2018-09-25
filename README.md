@@ -1,7 +1,11 @@
 log-lint-times
 ==============================================================================
 
-[Short description of the addon.]
+Prints out the total time for running eslint during each build / rebuild.
+
+This was created to help answer the question posed in [ember-cli/rfcs#121](https://github.com/ember-cli/rfcs/pull/121):
+
+> Do we have any numbers what speedup this might yield on average?
 
 Installation
 ------------------------------------------------------------------------------
@@ -14,7 +18,11 @@ ember install log-lint-times
 Usage
 ------------------------------------------------------------------------------
 
-[Longer description of how to use the addon in apps.]
+To use, run your ember-cli build and serve commands with instrumentation:
+
+```
+EMBER_CLI_INSTRUMENTATION=1 ember serve
+```
 
 
 Contributing
