@@ -1,13 +1,13 @@
 {
-  "name": "log-broccoli-node-times",
+  "name": "log-lint-times",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Log out the total time for running lint via ember-cli-eslint in the build.",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": "https://github.com/rwjblue/log-lint-times",
   "license": "MIT",
-  "author": "",
+  "author": "Robert Jackson <me@rwjblue.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"
