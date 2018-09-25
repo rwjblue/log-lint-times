@@ -1,4 +1,4 @@
-log-broccoli-node-times
+log-lint-times
 ==============================================================================
 
 [Short description of the addon.]
@@ -7,7 +7,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install log-broccoli-node-times
+ember install log-lint-times
 ```
 
 
@@ -23,7 +23,7 @@ Contributing
 ### Installation
 
 * `git clone <repository-url>`
-* `cd log-broccoli-node-times`
+* `cd log-lint-times`
 * `yarn install`
 
 ### Linting
