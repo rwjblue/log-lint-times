@@ -1,6 +1,6 @@
 {
   "name": "log-lint-times",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Log out the total time for running lint via ember-cli-eslint in the build.",
   "keywords": [
     "ember-addon"
